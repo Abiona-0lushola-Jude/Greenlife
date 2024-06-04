@@ -9,8 +9,8 @@ const Home = () => {
   return (
     <div className='py-7 px-12'>
       <Header />
-      {/* <Login /> */}
-      <About />
+      <Login />
+      {/* <About /> */}
       {/* <HomePage /> */}
     </div>
   )

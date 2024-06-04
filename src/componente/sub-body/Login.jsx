@@ -1,7 +1,9 @@
 import React from 'react'
+import Footer from './Footer'
 
 const Login = () => {
   return (
+    <>
     <div className='flex w-[100%] py-20'>
       <div className="w-1/2 p-20 flex flex-col">
         <h1 className="text-center text-emerald-900">Sign Up</h1>
@@ -18,6 +20,11 @@ const Login = () => {
             <h1 className='text-white text-5xl px-10'>Welcome to the new testament of GreenLife</h1>
       </div>
     </div>
+    <div>
+      <Footer />
+    </div>
+    </>
+    
   )
 }
 
