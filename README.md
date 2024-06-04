@@ -5,7 +5,7 @@
 ## Installation:
 
  ### Clone this repository:
-    git clone https://your-github-repo/greenlife-frontend.git
+    git clone https://github.com/Abiona-0lushola-Jude/Greenlife.git
 
 ### Navigate to the project directory:
     cd greenlife
